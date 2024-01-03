@@ -1,1 +1,3 @@
 # chronometre
+
+Récemment, dans le cadre de ses révisions en JavaScript, Philow a entrepris un projet pratique : la création d'un chronomètre. Pour l'assister dans cette tâche, il s'est appuyé sur une ressource vidéo très utile trouvée sur YouTube. La vidéo, accessible via le lien ici, fait partie d'une série de tutoriels qui guident pas à pas dans la réalisation de divers projets en JavaScript. Grâce à cette vidéo, Philow a pu acquérir de nouvelles compétences en programmation et réussir à coder un chronomètre fonctionnel, démontrant ainsi son engagement et sa capacité à apprendre de manière autonome
